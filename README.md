@@ -15,6 +15,9 @@ Please note that this code might also work with other SSI Absolute Encoders that
 ## Wiring Instructions
 To connect the absolute encoder to your Arduino board, follow these wiring instructions:
 
+![image](https://github.com/atarbabgei/absoluteEncoderSSI/assets/7202497/8203545b-0f10-45ac-9f74-a0d0de23568b)
+
+
 | CALT HAE28 Wire Color | Encoder Pin | Arduino Pin |
 |--------------------|-------------|-------------|
 | Red       | Power       | +5V         |
